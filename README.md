@@ -5,6 +5,33 @@
 
 </div>
 
+<br/>
+
+<!-- Live Preview Section -->
+<div align="center">
+
+## 🚀 LIVE PREVIEW
+
+<p align="center">
+  <a href="https://konstpic.github.io/expertise-matrix/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_SITE-00d9ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Live Site"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://konstpic.github.io/expertise-matrix/" target="_blank">
+    <img src="https://raw.githubusercontent.com/konstpic/expertise-matrix/main/preview.gif" width="100%" alt="Expertise Matrix Preview" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0, 217, 255, 0.3);"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ Click the image above to explore the interactive expertise matrix ✨</sub>
+</p>
+
+</div>
+
+<br/>
+
 <!-- Animated Status Banner -->
 <div align="center">
   
@@ -44,6 +71,96 @@
 <br/>
 
 <!-- Flowing Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<!-- 💎 EXPERTISE MATRIX - From index.html -->
+<div align="center">
+
+## 💎 EXPERTISE MATRIX
+
+<p align="center">
+  <a href="https://konstpic.github.io/expertise-matrix/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_OPEN_INTERACTIVE_MATRIX-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Open Matrix"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Interactive terminal-style portfolio showcasing technology expertise</sub>
+</p>
+
+### 🎯 Technology Categories
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+#### 🔴 Infrastructure
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-ff6b6b?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Nginx](https://img.shields.io/badge/Nginx-ff6b6b?style=flat-square&logo=nginx&logoColor=white&labelColor=1a1a1a)
+![Linux](https://img.shields.io/badge/Linux-ff6b6b?style=flat-square&logo=linux&logoColor=white&labelColor=1a1a1a)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-ff6b6b?style=flat-square&labelColor=1a1a1a)
+![Proxy](https://img.shields.io/badge/Proxy-ff6b6b?style=flat-square&labelColor=1a1a1a)
+![Network Engineering](https://img.shields.io/badge/Network_Engineering-ff6b6b?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+#### 🟣 Cloud & DevOps
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-8a2be2?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1a1a1a)
+![Azure](https://img.shields.io/badge/Azure-8a2be2?style=flat-square&logo=microsoft-azure&logoColor=white&labelColor=1a1a1a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-8a2be2?style=flat-square&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-8a2be2?style=flat-square&logo=github-actions&logoColor=white&labelColor=1a1a1a)
+![Automation](https://img.shields.io/badge/Automation-8a2be2?style=flat-square&labelColor=1a1a1a)
+![Monitoring](https://img.shields.io/badge/Monitoring-8a2be2?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+#### 🟢 Backend
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=flat-square&logo=node.js&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
+![Go](https://img.shields.io/badge/Go-00ff88?style=flat-square&logo=go&logoColor=white&labelColor=1a1a1a)
+![API Design](https://img.shields.io/badge/API_Design-00ff88?style=flat-square&labelColor=1a1a1a)
+![Microservices](https://img.shields.io/badge/Microservices-00ff88?style=flat-square&labelColor=1a1a1a)
+![Database](https://img.shields.io/badge/Database-00ff88?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+
+</div>
+
+</td>
+<td width="25%" align="center">
+
+#### 🟡 Frontend
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ffd700?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![React](https://img.shields.io/badge/React-ffd700?style=flat-square&logo=react&logoColor=white&labelColor=1a1a1a)
+![Next.js](https://img.shields.io/badge/Next.js-ffd700?style=flat-square&logo=next.js&logoColor=white&labelColor=1a1a1a)
+![Tailwind](https://img.shields.io/badge/Tailwind-ffd700?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
+![Performance](https://img.shields.io/badge/Performance-ffd700?style=flat-square&labelColor=1a1a1a)
+![UX Engineering](https://img.shields.io/badge/UX_Engineering-ffd700?style=flat-square&labelColor=1a1a1a)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br/>
@@ -191,76 +308,60 @@ mindmap
 
 <br/>
 
-<!-- Achievements Trophy -->
+<!-- Achievements Section -->
 <div align="center">
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-<img src="https://github-profile-trophy.vercel.app/?username=konstpic&theme=darkhub&no-frame=true&no-bg=true&column=7&row=1&margin-w=10&margin-h=10" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- Skills Matrix -->
-<div align="center">
-
-## 💎 EXPERTISE MATRIX
-
 <table>
 <tr>
-<td align="center" width="25%">
-
-**🔧 INFRASTRUCTURE**
-<br/><br/>
-`Docker` • `Nginx` • `Linux`
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="commits"/>
 <br/>
-`Load Balancing` • `Proxy`
+<sub><b>Commits</b></sub>
 <br/>
-`Network Engineering`
-
+<sub>Building Daily</sub>
 </td>
-<td align="center" width="25%">
-
-**☁️ CLOUD & DEVOPS**
-<br/><br/>
-`AWS` • `Azure` • `Self-Hosted`
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker"/>
 <br/>
-`CI/CD` • `Automation`
+<sub><b>Containerization</b></sub>
 <br/>
-`Monitoring` • `Logging`
-
+<sub>Master</sub>
 </td>
-<td align="center" width="25%">
-
-**⚙️ BACKEND**
-<br/><br/>
-`Node.js` • `Python` • `Go`
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="linux"/>
 <br/>
-`API Design` • `Microservices`
+<sub><b>Linux Guru</b></sub>
 <br/>
-`Database Optimization`
-
+<sub>Expert Level</sub>
 </td>
-<td align="center" width="25%">
-
-**🎨 FRONTEND**
-<br/><br/>
-`TypeScript` • `React` • `Next.js`
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="nginx"/>
 <br/>
-`Modern CSS` • `Performance`
+<sub><b>Load Balancing</b></sub>
 <br/>
-`UX Engineering`
-
+<sub>Optimized</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs"/>
+<br/>
+<sub><b>Backend Dev</b></sub>
+<br/>
+<sub>Production Ready</sub>
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+![](https://img.shields.io/badge/Total_Stars-Counting-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Streak-Active-ff6b6b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Projects-Multiple-00d9ff?style=for-the-badge&logo=task&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Status-Shipping-00ff88?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a)
+
+
+</div>
 
 <br/>
 
