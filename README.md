@@ -6,7 +6,7 @@
   
   ### 🚀 Full-Stack Developer | Infrastructure Engineer | Open Source Enthusiast
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+infrastructure;Crafting+elegant+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+infrastructure;Crafting+elegant+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
   
 </div>
 
@@ -66,7 +66,7 @@ const konstantin = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=konstpic&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=konstpic&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -107,31 +107,6 @@ const konstantin = {
 
 ---
 
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Konstantin))
-    Infrastructure
-      Load Balancing
-      Proxy Systems
-      Network Optimization
-    Development
-      Backend Services
-      API Design
-      Automation Scripts
-    Learning
-      Cloud Native
-      Kubernetes
-      Advanced DevOps
-    Open Source
-      Contributing
-      Maintaining
-      Collaborating
-```
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -155,9 +130,11 @@ mindmap
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/konstpic/konstpic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/konstpic/konstpic/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/konstpic/konstpic/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/konstpic/konstpic/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
