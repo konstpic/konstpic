@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Liquid Glass Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=KONSTANTIN%20PICHUGIN&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=gradient&desc=Full-Stack%20Developer%20%7C%20Infrastructure%20Architect&descSize=25&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=KONSTANTIN%20PICHUGIN&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=gradient&desc=Full-Stack%20Begginer%20Developer%20%7C%20DevOps%20Engineer&descSize=25&descAlignY=60" width="100%"/>
 
 </div>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <sub>✨ Click the image above to explore the interactive expertise matrix ✨</sub>
+  <sub>✨ Click the image above to explore the interactive site ✨</sub>
 </p>
 
 </div>
@@ -36,7 +36,7 @@
 <div align="center">
   
 ```diff
-@@                    🌊 DIVING DEEP INTO THE CODE OCEAN                    @@
+                   🌊 DIVING DEEP INTO THE CODE OCEAN                    
 +  Status: Building the future, one commit at a time
 !  Location: Tula, Russia 🇷🇺 | Remote: 🌍 Worldwide
 #  Current Vibe: ⚡ High Performance | 🎯 Precision Engineering
@@ -46,29 +46,7 @@
 
 <br/>
 
-<!-- Glassmorphic Stats Section -->
-<div align="center">
 
-### ✨ REALITY DISTORTION FIELD ✨
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=konstpic&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&ring_color=00d9ff&fire_color=ff6b6b&include_all_commits=true&count_private=true" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=konstpic&theme=transparent&hide_border=true&background=00000000&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- Flowing Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
@@ -129,7 +107,7 @@
 #### 🟢 Backend
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=flat-square&logo=node.js&logoColor=white&labelColor=1a1a1a)
+
 ![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
 ![Go](https://img.shields.io/badge/Go-00ff88?style=flat-square&logo=go&logoColor=white&labelColor=1a1a1a)
 ![API Design](https://img.shields.io/badge/API_Design-00ff88?style=flat-square&labelColor=1a1a1a)
@@ -146,7 +124,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffd700?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a)
 ![React](https://img.shields.io/badge/React-ffd700?style=flat-square&logo=react&logoColor=white&labelColor=1a1a1a)
-![Next.js](https://img.shields.io/badge/Next.js-ffd700?style=flat-square&logo=next.js&logoColor=white&labelColor=1a1a1a)
 ![Tailwind](https://img.shields.io/badge/Tailwind-ffd700?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1a1a1a)
 ![Performance](https://img.shields.io/badge/Performance-ffd700?style=flat-square&labelColor=1a1a1a)
 ![UX Engineering](https://img.shields.io/badge/UX_Engineering-ffd700?style=flat-square&labelColor=1a1a1a)
@@ -231,10 +208,75 @@
 
 <br/>
 
+<!-- Achievements Section -->
+<div align="center">
+
+</div>
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="commits"/>
+<br/>
+<sub><b>Commits</b></sub>
+<br/>
+<sub>Building Daily</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker"/>
+<br/>
+<sub><b>Containerization</b></sub>
+<br/>
+<sub>Master</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="linux"/>
+<br/>
+<sub><b>Linux Guru</b></sub>
+<br/>
+<sub>Expert Level</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="nginx"/>
+<br/>
+<sub><b>Load Balancing</b></sub>
+<br/>
+<sub>Optimized</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs"/>
+<br/>
+<sub><b>Backend Dev</b></sub>
+<br/>
+<sub>Production Ready</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/Total_Stars-Counting-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Streak-Active-ff6b6b?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Projects-Multiple-00d9ff?style=for-the-badge&logo=task&logoColor=white&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Status-Shipping-00ff88?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a)
+
+
+</div>
+
+<br/>
+
 <!-- Featured Projects Showcase -->
 <div align="center">
 
+</div>
+
 ## 🎯 SIGNATURE PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
@@ -267,44 +309,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<br/>
 
-<!-- Mindmap Section -->
-<div align="center">
-
-## 🧠 CURRENT FOCUS AREAS
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1a1a', 'tertiaryColor':'#2a2a2a'}}}%%
-mindmap
-  root((KONSTANTIN<br/>PICHUGIN))
-    Infrastructure
-      Load Balancing
-      Proxy Architecture
-      Network Optimization
-      High Availability
-    Cloud Native
-      Kubernetes
-      Microservices
-      Container Orchestration
-      CI/CD Pipelines
-    Backend Development
-      API Design
-      Database Optimization
-      Performance Tuning
-      Security Hardening
-    DevOps Culture
-      Automation
-      Monitoring
-      IaC
-      GitOps
-```
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <br/>
 
